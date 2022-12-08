@@ -1,7 +1,7 @@
 # Analyse-des-ventes-d-une-librairie
 ## Analyse des ventes d'une librairie généraliste en ligne
 
-### Contexte
+### Mise en situation
 Vous êtes consultant Data Analyst chez Lapage, une grande librairie généraliste en ligne. L'entreprise souhaite faire le point après deux ans d'exercice, et pouvoir analyser ses points forts, points faibles, les comportements des clients, etc.  
 
 L'analyser se décompose en deux parties:
