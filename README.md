@@ -1,4 +1,4 @@
-# Analyse-des-ventes-d-une-librairie
+# Analyse des ventes d'une librairie
 ## Analyse des ventes d'une librairie généraliste en ligne
 
 *Projet réalisé dans le cadre de ma formation Openclassrooms*  
